@@ -1,0 +1,25 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "metrics"
+      "markdown-preview"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  editor:
+    fontFamily: "Ricty Diminished"
+    fontSize: 18
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "cc9d6843-1448-0257-c35a-0b67c39fedab"
+  "terminal-plus":
+    toggles: {}
+  welcome:
+    showOnStartup: false
